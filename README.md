@@ -119,7 +119,8 @@ Copy code
     "Escalated: Unknown issue type"
   ]
 }
-🧰 Tools Explained
+
+#### 🧰 Tools Explained ####
 🔹 KB Retriever (tools/kb_retriever.py)
 Fetches a predefined KB response.
 In a production version, this would connect to a RAG (Retrieval-Augmented Generation) system such as FAISS or Chroma to search across large company documents.
@@ -183,7 +184,7 @@ python main.py
 # Run tests
 pytest
 
-🧠 Industry Relevance
+#### 🧠 Industry Relevance
 This project simulates how real AI support assistants (used by SaaS companies, telecoms, or e-commerce) handle support tickets automatically.
 In real-world deployment, such systems connect to:
 
@@ -203,3 +204,4 @@ AI Developer Assignment – DotKonnekt
 
 
 “Building intelligent agents that think, plan, and act like real support engineers.”
+
