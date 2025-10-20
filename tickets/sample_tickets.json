@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Password Reset Issue",
+        "description": "I tried resetting my password but didn’t get any link."
+    },
+    {
+        "title": "Upgrade Plan",
+        "description": "Please upgrade my plan to Pro monthly."
+    },
+    {
+        "title": "Invoice Missing",
+        "description": "My August invoice is missing in billing section."
+    },
+    {
+        "title": "Server Configuration Error",
+        "description": "Not sure why the API fails."
+    }
+]
